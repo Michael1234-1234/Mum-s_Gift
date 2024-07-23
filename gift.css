@@ -92,21 +92,6 @@ h1, h2, h3, h4, p {
     background-size: 400px 395px;
 }
 
-#airtime-img {
-    width: 400px;
-    height: 400px;
-    background-image: url(gift-cover.jpg);
-    background-size: cover;
-    border: 6px solid white;
-    border-radius: 10px;
-    margin: 0 auto 0 auto;
-}
-
-#airtime-img:hover {
-    background-image: url(mum's bday gift.png);
-    background-size: 400px 400px;
-}
-
 #wish-img {
     width: 400px;
     height: 400px;
